@@ -1,6 +1,3 @@
-Here's a `README.md` for your **Tic-Tac-Toe** game built in C++:
-
-```markdown
 # Tic-Tac-Toe (C++ Version)
 
 This is a simple **Tic-Tac-Toe** game built using C++. The game allows a human player to compete against an AI. The AI uses the Minimax algorithm to calculate the best possible move and ensure competitive gameplay. The human player can choose their marker (X or O), and the game proceeds turn by turn until a player wins or the board is full, resulting in a tie.
